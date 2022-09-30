@@ -19,3 +19,5 @@ columns represent the following: <br>
 13. **Sport**
 14. **Event**
 15. **Medal** - NA, Bronze, Silver, or Gold
+
+In addition to the main dataset, there is also another file called "noc_regions.csv" that maps out all NOCs to their respective countries
