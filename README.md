@@ -1,6 +1,6 @@
 # EDA-with-SQL---Olympics-History
 
-In this notebook, my goal is to analyze a historical dataset covering both the Winter and Summer Olympics from 1896 to 2016. I primarily use SQLite queries to extract key insights from the data. The dataset was scraped from www.sports-reference.com, and I found it on Kaggle [here]( https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?select=noc_regions.csv)
+In this notebook, my goal was to analyze a historical dataset covering both the Winter and Summer Olympics from 1896 to 2016. I primarily use SQLite queries to extract key insights from the data. The dataset was scraped from www.sports-reference.com, and I found it on Kaggle [here]( https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?select=noc_regions.csv)
 
 This dataset contains 2,711,116 rows and 15 columns. Each row represents an individual athlete's performance at a single event at a single Olympic games. The 15 
 columns represent the following: <br>
